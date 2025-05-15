@@ -52,7 +52,7 @@ const Navbar = () => {
                 </li>
 
                 <a
-                    href="http://localhost:5174/"
+                    href="https://forever-full-stack-admin-phi.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="px-4 py-1 border rounded-full text-sm text-black hover:bg-gray-100 flex items-center"
